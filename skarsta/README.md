@@ -42,19 +42,25 @@ After testing quite a few DC motors from Ebay, Aliexpress and Banggood, I stuck 
 
 #### Electronic cases
 
-- [case_bridge-v1](./docs/case_bridge-v1.md)
-- [case_relays-v1](./docs/case_relays-v1.md)
+- All in one designs (deprecated)
+  - [case_bridge-v1](./docs/case_bridge-v1.md)
+  - [case_relays-v1](./docs/case_relays-v1.md)
+
+- Modullar designs
+  - Electronics
+    - [case_bridge-v2](./docs/case_bridge-v2.md)
+    - [case_relays-v2](./docs/case_relays-v2.md)
+  - Motor
+    - [case_motor-v2](./docs/case_motor-v2.md)
+  - Sensors
+    - [sensor-rot](./docs/sensor-rot.md) - relative position
+    - [sensor-hall](./docs/sensor-hall.md) - relative position
+    - [sensor-sonar](./docs/sensor-sonar.md) - absolute position
 
 #### Display + Keypad cases
 
 - [panel-v1](./docs/panel-v1.md)
 - [panel-v2](./docs/panel-v2.md)
-
-### Sensors cases
-
-- [sensor-rot](./docs/sensor-rot.md) - relative position
-- [sensor-hall](./docs/sensor-hall.md) - relative position
-- [sensor-sonar](./docs/sensor-sonar.md) - absolute position
 
 ### FAQ
 
